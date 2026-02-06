@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.pytest_cache/
+
+# Node
+client/node_modules/
+client/dist/
+client/.env
+
+# Project Specific
+.tmp/
+output/
+.gemini/
